@@ -1,2 +1,2 @@
-# In best case the time complexity of bubble sort is O(n).
+# In best case the time complexity of bubble sort & Insertion Sort is O(n).
  Best case => Already sorted
